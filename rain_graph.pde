@@ -1,7 +1,7 @@
 void setup()
 {
   size(500,500);
-  background(0);
+  background(0,0,255);
   stroke(200);
   drawLineChart(rainFall,months);
 }
